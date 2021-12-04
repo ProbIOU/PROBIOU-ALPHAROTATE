@@ -1,0 +1,4 @@
+/workdir
+model restore from : /workdir/output/trained_weights/RetinaNet_HRSC2016_R3Det_KL_2x_20210205/HRSC2016_200004model.ckpt
+['/workdir/output/trained', 'weights/RetinaNet', 'HRSC2016', 'R3Det', 'KL', '2x', '20210205/HRSC2016', '200004model.ckpt']
+/workdir/output/trained_weights/RetinaNet_HRSC2016_R3Det_KL_2x_20210205/HRSC2016_199996model.ckpt

@@ -1,0 +1,157 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+docs/api/_autosummary/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
+
+# dotenv
+.env
+
+# virtualenv
+.venv
+venv/
+ENV/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+
+.idea/
+.pyc
+.so
+*.data-00000-of-00001
+*.index
+*.meta
+events.*
+checkpoint
+*.params
+__pycache__/
+*.json
+*.zip
+*.pb
+*.npy
+*.pth
+*.pbtxt
+*.tflite
+*info.txt
+*events.out.tfevents*
+*.ckpt
+*.pb
+*.tfrecord*
+*tmp*
+*.mp4*
+*.MP4*
+*ablation_study*
+*icme*
+*yolo*
+*r2cnn_gwd*
+*r2cnn_dcl*
+*r2cnn_csl*
+*fcos*
+*centernet*
+*tensorpack*
+*.DS_Store*
+*configs_v2*
+*README_v2.md*
+*arbitrary_shaped*
+*scale_invariance*
+*kf*
+*gwd_norm*
+*bcd*
+*double_head*
+*.DS_Store*
+
+tools/*/test_dota/*
+tools/*/test_hrsc/*
+tools/*/test_mlt/*
+tools/*/test_ucas_aod/*
+tools/*/test_icdar2015/*
+tools/*/test_masra_td500/*
+tools/*/test_ohd_sjtu/*
+output/summary/*
+dataloader/tfrecord/*
